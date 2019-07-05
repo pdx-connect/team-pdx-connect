@@ -1,0 +1,314 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
+@import url("https://fonts.googleapis.com/css?family=Varela+Round");
+
+html{
+    height: 100%;
+    background: #f6f9fb;
+    font-family: 'Montserrat', sans-serif;
+    color: #565656;
+}
+
+.home
+{
+    background: #f6f9fb;
+    margin-top: 1%;
+    text-align: center;
+}
+
+.home .title
+{
+    text-transform: uppercase;
+    letter-spacing: 1vw;
+    color: #9fc1c0;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.home .sub-title
+{
+    text-transform: uppercase;
+    letter-spacing: 1vw;
+    color: #565656;;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.nav
+{
+    background-color: #eeeeee;
+    margin-top: 1%;
+}
+
+a.nav-link
+{
+    text-decoration: none;
+    color: #297d7d;
+    text-transform: uppercase;
+    letter-spacing: .5vw;
+    font-weight: bold;
+    font-family: 'Varela Round', sans-serif;
+}
+
+a.nav-link:hover
+{
+    color: #b3b3b3;
+}
+
+.sub-architecture
+{
+    background-color: #565656;
+}
+
+.footer a
+{
+    text-decoration: none;
+    color: #297d7d;
+    text-transform: uppercase;
+    letter-spacing: .5vw;
+    font-weight: bold;
+    font-family: 'Varela Round', sans-serif;
+    font-size: .75vw;
+}
+
+.footer a:hover
+{
+    color: #9fc1c0;
+    text-decoration: none;
+}
+
+.development a
+{
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1vw;
+    color: #9fc1c0;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.development a:hover
+{
+    color: #297d7d;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.carouselTitle
+{
+    text-decoration: none;
+    color: #297d7d;
+    text-transform: uppercase;
+    letter-spacing: .5vw;
+    font-weight: bold;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.carouselSubTitle
+{
+    text-decoration: none;
+    color: #b3b3b3;
+    text-transform: uppercase;
+    letter-spacing: .5vw;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.sprintDate
+{
+    text-decoration: none;
+    color: #b3b3b3;
+    text-transform: uppercase;
+    letter-spacing: .5vw;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.about
+{
+    text-align: justify;
+    text-justify: inter-word;
+
+}
+
+.requirements
+{
+    list-style-type: none;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #9fc1c0;
+    margin-bottom: 0;
+    color: #000000;
+    padding: 1%;
+}
+
+.deliverables
+{
+    margin-top: 0;
+    list-style-type: none;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #297d7d;
+    padding: 1%;
+}
+
+.sprintsRequirementsTitle
+{
+    text-transform: uppercase;
+    letter-spacing: 1vw;
+    color: #297d7d;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.sprintsDeliverablesTitle
+{
+    text-transform: uppercase;
+    letter-spacing: 1vw;
+    color: #9fc1c0;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.deliverablesDate
+{
+    color: #f15a24;
+    text-transform: uppercase;
+    letter-spacing: .5vw;
+    font-weight: bold;
+    font-family: 'Varela Round', sans-serif;
+    margin-bottom: 3%;
+}
+
+.nav.mockups-nav
+{
+    cursor: pointer;
+    background-color: #f6f9fb;
+}
+
+.nav.mockups-nav a.nav-link
+{
+    text-decoration: none;
+    color: #565656;
+    text-transform: uppercase;
+    letter-spacing: .5vw;
+    font-weight: bold;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.nav.mockups-nav a.nav-link:hover
+{
+    color: #b3b3b3;
+}
+
+.sprint-icons
+{
+    color: #297d7d;
+    margin-bottom: 5%;
+}
+
+
+.icons
+{
+    color: #297d7d;
+}
+
+.teamC td
+{
+    width: 33%;
+}
+
+.tableHeaders
+{
+    color: #b3b3b3;
+    text-transform: uppercase;
+    letter-spacing: .5vw;
+    font-weight: bold;
+}
+
+.repoMsg
+{
+    color: #b3b3b3;
+    text-transform: uppercase;
+    letter-spacing: .5vw;
+    font-weight: bold;
+}
+
+.footer
+{
+    margin-top: 1%;
+}
+
+.req
+{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+a.skylight-close-button
+{
+    display: none;
+}
+
+.commit
+{
+    margin-bottom: 1%;
+    font-size: 1em;
+    color: #565656;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.team-member
+{
+    font-size: 1vw;
+    color:  #297d7d;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.count
+{
+    font-size: 1vw;
+    color: #9fc1c0;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+}
+
+.sprint-link
+{
+    text-decoration: none;
+    color: #297d7d;
+    text-transform: uppercase;
+    letter-spacing: .5vw;
+    font-weight: bold;
+    font-family: 'Varela Round', sans-serif;
+    cursor: pointer;
+}
+
+.sprint-link:hover
+{
+    color: #9fc1c0;
+}
+
+.carousel
+{
+    color: grey;
+    background-color: #ffffff !important;
+}
+  
+.carousel .item
+{
+    color: grey;
+    background-color: red;
+}
+  
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    height: 75px !important;
+    width: 75px !important;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: thick solid #565656;
+    background-color: #565656 !important;
+}

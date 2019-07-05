@@ -1,0 +1,510 @@
+[{
+  "commit": "75015bd893a524e68cbc4d6eca0332e2a6dee55f",
+  "author": "eggebrecht0 <44066144+eggebrecht0@users.noreply.github.com>",
+  "date": "Wed May 29 23:15:17 2019 -0700",
+  "message": "Egg-profile-home-33"
+},
+{
+  "commit": "4588c9bd097f95421b208ec0309bfcc26335b48e",
+  "author": "Daniel Persson <suecra39@gmail.com>",
+  "date": "Wed May 29 22:46:57 2019 -0700",
+  "message": "Inbox-query-string-ready-to-go-31"
+},
+{
+  "commit": "b26f65617cd35fdeb0e330bd70082b9c07236218",
+  "author": "Daniel Persson <suecra39@gmail.com>",
+  "date": "Wed May 29 22:30:48 2019 -0700",
+  "message": "Persson-start-conversation-check-30"
+},
+{
+  "commit": "a99d7f535ea2e33cd40c683fb65824d890881b55",
+  "author": "eggebrecht0 <44066144+eggebrecht0@users.noreply.github.com>",
+  "date": "Wed May 29 22:26:11 2019 -0700",
+  "message": "add-edit-functionality-to-listings-which-redirects-to-calendar-32"
+},
+{
+  "commit": "bb27e1e9c29655b484a88283054eb2d0fe4c0f9b",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Wed May 29 20:44:38 2019 -0700",
+  "message": "Removed-vim.exe.stackdump-file-and-added-to-gitignore"
+},
+{
+  "commit": "08f0ccf8b2a578da901d27940b95bfb95e070955",
+  "author": "David Georgiyev <idavidgeo@gmail.com>",
+  "date": "Tue May 28 23:21:00 2019 -0700",
+  "message": "Inbox-component-fixes-28"
+},
+{
+  "commit": "d57348473cb63788a2fa0bfd9fe4619568b7e5f4",
+  "author": "Daniel Persson <suecra39@gmail.com>",
+  "date": "Tue May 28 20:50:35 2019 -0700",
+  "message": "Persson-home-content-routes-26"
+},
+{
+  "commit": "934d308a9ee81d0fad1d4ad04670c49e8cd663f5",
+  "author": "eggebrecht0 <44066144+eggebrecht0@users.noreply.github.com>",
+  "date": "Tue May 28 20:39:04 2019 -0700",
+  "message": "Hoang-user-profile-mvp-backend-25"
+},
+{
+  "commit": "c3dbbbc53af087511e85caae511a3475b3226712",
+  "author": "Bradley Odell <odell@pdx.edu>",
+  "date": "Tue May 28 20:12:44 2019 -0700",
+  "message": "Added-type-column-to-the-Tag-entity-and-update-tag-routes.-27"
+},
+{
+  "commit": "08d61d5b7d4a654dcee844d1a98933bdaf58c088",
+  "author": "Doanh <tochi.caraballo@gmail.com>",
+  "date": "Thu May 23 22:25:48 2019 -0700",
+  "message": "Doanh-calendar-19"
+},
+{
+  "commit": "39646bc5cd4f7f41bfd9587bdc569c255a9029f3",
+  "author": "Brooke Dedrickson <mdedri2@pdx.edu>",
+  "date": "Thu May 23 20:14:25 2019 -0700",
+  "message": "Dedrickson-searchresults-listings-events-24"
+},
+{
+  "commit": "239c9fb9af3f66d8b79e394084197695fe4ffb27",
+  "author": "Bradley Odell <odell@pdx.edu>",
+  "date": "Wed May 22 20:23:27 2019 -0700",
+  "message": "Persson-comments-23"
+},
+{
+  "commit": "4c8795af92dd71627540dadd738830e393e5cdc5",
+  "author": "Bradley Odell <odell@pdx.edu>",
+  "date": "Wed May 15 17:32:01 2019 -0700",
+  "message": "Merge-David-and-Daniel-s-socket-messaging-branch-21"
+},
+{
+  "commit": "33c2d1c479e0bbba97d13d517902eb1c18bea598",
+  "author": "eggebrecht0 <44066144+eggebrecht0@users.noreply.github.com>",
+  "date": "Fri May 10 16:34:02 2019 -0700",
+  "message": "add-rainbow-color-palette-20"
+},
+{
+  "commit": "39e977ace7692c7c8a50c055593b784953bf87ae",
+  "author": "YianChen18 <y22@pdx.edu>",
+  "date": "Thu May 9 18:15:53 2019 -0700",
+  "message": "Chen-listings-18"
+},
+{
+  "commit": "d8d2447e49919a7a471bee995da1e661ded25f16",
+  "author": "Brooke Dedrickson <mdedri2@pdx.edu>",
+  "date": "Thu May 9 10:44:53 2019 -0700",
+  "message": "Dedrickson-searchresults-listings-events-17"
+},
+{
+  "commit": "4066e5005df6f03ba25c0db3606b467a4955b4e7",
+  "author": "Brooke Dedrickson <mdedri2@pdx.edu>",
+  "date": "Fri May 3 19:07:47 2019 -0700",
+  "message": "Dedrickson-searchresults-listings-events-15"
+},
+{
+  "commit": "d5900c016c106a0392913f5d2ca8fce982dde7b3",
+  "author": "eggebrecht0 <44066144+eggebrecht0@users.noreply.github.com>",
+  "date": "Fri May 3 16:24:41 2019 -0700",
+  "message": "Extracted-font-and-colors-to-root.css-made-home-component-height-consistent-16"
+},
+{
+  "commit": "ede5771629ea9d66ea26ca86c24fe981ef39e85e",
+  "author": "YianChen18 <y22@pdx.edu>",
+  "date": "Wed May 1 07:20:35 2019 +0800",
+  "message": "Chen-listings-12"
+},
+{
+  "commit": "e59933549c99ca92266d41331bdb89600d8e39eb",
+  "author": "Bradley Odell <odell@pdx.edu>",
+  "date": "Tue Apr 30 16:18:38 2019 -0700",
+  "message": "Calendar-event-entities-and-GET-routes-14"
+},
+{
+  "commit": "94f5ababb4ca0f235d40224685c2d3931b81f493",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Fri Apr 26 10:09:18 2019 -0700",
+  "message": "Updated-NPM-dependencies"
+},
+{
+  "commit": "6081b77388a7b3be6e5354cf4f6a39f1e2646ad5",
+  "author": "Doanh <tochi.caraballo@gmail.com>",
+  "date": "Thu Apr 25 20:22:40 2019 -0700",
+  "message": "Calendar-13"
+},
+{
+  "commit": "d0d2124d1fb270707d4284e83eb2c84156417af2",
+  "author": "Brooke Dedrickson <mdedri2@pdx.edu>",
+  "date": "Thu Apr 25 18:50:33 2019 -0700",
+  "message": "Dedrickson-searchresultsbugfix-11"
+},
+{
+  "commit": "b4f7813c8bb866dd4ba88a6b64d117366c2b862b",
+  "author": "eggebrecht0 <44066144+eggebrecht0@users.noreply.github.com>",
+  "date": "Wed Apr 24 10:56:52 2019 -0700",
+  "message": "created-dummy-content-for-home-content-8"
+},
+{
+  "commit": "f31861915b4408ca3edff859d213938a69ff799d",
+  "author": "eggebrecht0 <44066144+eggebrecht0@users.noreply.github.com>",
+  "date": "Wed Apr 24 07:14:36 2019 -0700",
+  "message": "Eggebrecht-add-commuter-status-and-major-to-oobe-10"
+},
+{
+  "commit": "5edc1ea581990fff6b85e2bf26db7f0edf1569b7",
+  "author": "eggebrecht0 <44066144+eggebrecht0@users.noreply.github.com>",
+  "date": "Tue Apr 23 19:15:36 2019 -0700",
+  "message": "Updated-finalize-to-close-oobe-given-no-selected-interests-7"
+},
+{
+  "commit": "a1999819a367f3ff1f41f10ab5130bcb215230c5",
+  "author": "Doanh <tochi.caraballo@gmail.com>",
+  "date": "Thu Apr 18 20:55:50 2019 -0700",
+  "message": "Start-of-calendar-backend-5"
+},
+{
+  "commit": "d1df0e39300547fde2c128cecb51fa2effa2b6e2",
+  "author": "eggebrecht0 <44066144+eggebrecht0@users.noreply.github.com>",
+  "date": "Thu Apr 18 15:53:02 2019 -0700",
+  "message": "Initial-calendar-development-4"
+},
+{
+  "commit": "762084b21853657cd23275de5f9c517c69f8cf58",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Wed Apr 17 17:11:33 2019 -0700",
+  "message": "Added-JSON-GET-POST-utility-functions-3"
+},
+{
+  "commit": "e3333ab24a07b0b4a8b5df27c31e970d94a110c3",
+  "author": "eggebrecht0 <44066144+eggebrecht0@users.noreply.github.com>",
+  "date": "Tue Apr 16 21:25:15 2019 -0700",
+  "message": "Eggebrecht-directories-setter-userid-2"
+},
+{
+  "commit": "89c1f621c401d6852403b7c4bf8c71d7bea6ab8c",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Tue Apr 16 20:47:57 2019 -0700",
+  "message": "Add-Tag-helper-functions"
+},
+{
+  "commit": "882bbd355be256ecc71068a3ac3a50803a1763d8",
+  "author": "Brooke Dedrickson <mdedri2@pdx.edu>",
+  "date": "Sun Apr 14 13:39:36 2019 -0700",
+  "message": "Integrated-swap-mapping-for-router"
+},
+{
+  "commit": "6df204c495ae1359325a7bf12673b310b058bd6e",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Thu Apr 11 23:01:29 2019 -0700",
+  "message": "Moved-client-dependencies-from-root-package.json-to-client-package.json"
+},
+{
+  "commit": "a1a8ba71cb21cd36b9640b9d077d1190a90239ee",
+  "author": "Lee V Hoang <32476099+leevhoang@users.noreply.github.com>",
+  "date": "Wed Apr 10 22:13:58 2019 -0700",
+  "message": "PC-32-Personal-Profile-Client-Fixed-reinstall-issues"
+},
+{
+  "commit": "29cdfa321d958c153e09d73acf11a264f90bc606",
+  "author": "Lee V Hoang <32476099+leevhoang@users.noreply.github.com>",
+  "date": "Wed Apr 10 21:53:29 2019 -0700",
+  "message": "PC-32-Personal-Profile-Client"
+},
+{
+  "commit": "63d0306be55f60b17a75c60d41d6db655d51ca1b",
+  "author": "Brooke Dedrickson <mdedri2@pdx.edu>",
+  "date": "Wed Apr 10 20:08:37 2019 -0700",
+  "message": "PC36-The-user-can-search-by-username-and-recieve-a-table-of-matching-usernames-and-their-majors"
+},
+{
+  "commit": "46c10fa43d7b504e89b35ae06ca2cd3e876abb44",
+  "author": "Brooke Dedrickson <mdedri2@pdx.edu>",
+  "date": "Wed Apr 10 19:59:41 2019 -0700",
+  "message": "PC36-The-user-can-search-by-username-and-recieve-a-table-of-matching-usernames-and-their-majors"
+},
+{
+  "commit": "618ddeb395255b7f985aac3b56657cd694bb7373",
+  "author": "Yian Chen <y22@pdx.edu>",
+  "date": "Wed Apr 10 19:13:32 2019 -0700",
+  "message": "PC37-the-user-can-now-search-by-display-name-and-major-for-other-user-profiles"
+},
+{
+  "commit": "5c4d51c35033a2bc1fd0e96f6d655128a1958ce4",
+  "author": "Yian <y22@pdx.edu>",
+  "date": "Tue Apr 9 21:34:29 2019 -0700",
+  "message": "If-the-user-did-not-setup-his-her-major-return-an-empty-string-for-the-major"
+},
+{
+  "commit": "e3a6a6d4a8b3e614ec373463ffb8e77c7c16fbab",
+  "author": "Yian <y22@pdx.edu>",
+  "date": "Tue Apr 9 20:29:05 2019 -0700",
+  "message": "For-user-major-only-return-the-major-name-not-with-the-tag-id-When-search-by-major"
+},
+{
+  "commit": "07d342fdef18f8b17452854185dd3c06b1aadbf9",
+  "author": "Yian <y22@pdx.edu>",
+  "date": "Tue Apr 9 20:00:27 2019 -0700",
+  "message": "For-user-major-only-return-the-major-name-not-with-the-tag-id"
+},
+{
+  "commit": "1f1261789bb27dc2504d250dafe26abe859ac035",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Tue Apr 9 19:40:13 2019 -0700",
+  "message": "Hot-fix-for-the-api-user-interests-POST-route"
+},
+{
+  "commit": "a5017ed4f9b80170f353b030b044212bde391a73",
+  "author": "Yian Chen <y22@pdx.edu>",
+  "date": "Sat Apr 6 10:02:05 2019 -0700",
+  "message": "PC39-PC40-PC41-PC42-added-login-button-for-Login-page-and-next-button-for-register-page-with-warning-swapped-email-and-password-field-in-register-page-and-check-for-duplicate-email-domain-register"
+},
+{
+  "commit": "7a22a17a74aa5703a95c49ff72799f6847a7dd60",
+  "author": "Terry Eggebrecht <terry0@terryegg.com>",
+  "date": "Fri Apr 5 22:29:03 2019 -0700",
+  "message": "Peer-review-css-modifications-add-user-warnings-swap-pass-email-fields-dup-domain-check"
+},
+{
+  "commit": "3c8c8cc4f2b4c30811b9842afb9a1a892d44495f",
+  "author": "Yian Chen <y22@pdx.edu>",
+  "date": "Fri Apr 5 00:19:25 2019 -0700",
+  "message": "Search-by-display-name-and-by-major-for-profiles"
+},
+{
+  "commit": "fa9d3e2d61dd7a2e4f9a6fcd7805d61491886df8",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Thu Apr 4 23:09:26 2019 -0700",
+  "message": "Bug-fix-Fixed-issue-with-major-tag-in-UserProfile-entity"
+},
+{
+  "commit": "35ff9beff2a057bcda86143537b0d87af1f1f30c",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Thu Apr 4 23:05:57 2019 -0700",
+  "message": "Hot-fix-Added-email-validation-so-we-stop-sending-invalid-email-addresses-through-Gmail"
+},
+{
+  "commit": "09c0d7524772925b58b96ebc06ddf136800ce539",
+  "author": "Yian Chen <y22@pdx.edu>",
+  "date": "Thu Apr 4 13:55:02 2019 -0700",
+  "message": "Changed-the-arrow-button-in-login-page-to-a-real-login-button"
+},
+{
+  "commit": "014cb56c89607dfbce9274c00150d7f58bb6a326",
+  "author": "Yian Chen <y22@pdx.edu>",
+  "date": "Wed Apr 3 21:00:58 2019 -0700",
+  "message": "Added-the-next-arrow-for-the-Login-page-and-the-registration-page-act-the-same-as-pressing-enter-key"
+},
+{
+  "commit": "b85d2c8d971d69fbc0975bd3e004135c45f57a69",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Wed Apr 3 02:53:22 2019 -0700",
+  "message": "Fixed-issues-with-server-running-in-production-mode"
+},
+{
+  "commit": "db5798a5c921bb8bebee4ade109779629639d02f",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Wed Apr 3 00:16:11 2019 -0700",
+  "message": "Fixed-deploy-NPM-script"
+},
+{
+  "commit": "7c12d51a3274043b4876e9f5657c14c64f204f88",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Wed Apr 3 00:05:30 2019 -0700",
+  "message": "Added-command-line-parser-to-distinguish-developer-mode-and-production-mode"
+},
+{
+  "commit": "8a2a9a546f80d8ca85ff330888eaa0236e6f7a88",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Tue Apr 2 22:39:08 2019 -0700",
+  "message": "Updated-webpack-configuration-to-dynamically-read-number-of-CPUs-from-OS-for-the-parallelism-setting"
+},
+{
+  "commit": "fc070294fab75adc8f5884b42b8c67a833ac1fc6",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Tue Apr 2 21:08:11 2019 -0700",
+  "message": "PC-5-PC-16-PC-19-PC-29-PC-30-Home-page-with-logout-and-profile-customization"
+},
+{
+  "commit": "4a6c65cf661593c313b2f8b1c8c9b5bff9aac69b",
+  "author": "Terry Eggebrecht <terry0@terryegg.com>",
+  "date": "Mon Mar 25 11:25:13 2019 -0700",
+  "message": "pc-3-pc-20-pc-21-Registration-UI-2"
+},
+{
+  "commit": "75054897ed54b2e4064265c583872e5116ad0e02",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Tue Mar 19 21:17:20 2019 -0700",
+  "message": "PC-4-PC-10-PC-11-PC-12-PC-13-Password-reset-client-front-end-with-server-back-end-support"
+},
+{
+  "commit": "b3ab68fdb7e0427b0c8d598fe1a5b90e25afab6f",
+  "author": "Daniel Persson <dpersson@pdx.edu>",
+  "date": "Tue Mar 19 15:23:23 2019 -0700",
+  "message": "fixed-failed-build-no-save"
+},
+{
+  "commit": "c2c85a8c1bddd16a2b30445264979812bc5d0a98",
+  "author": "Daniel Persson <dpersson@pdx.edu>",
+  "date": "Tue Mar 19 15:16:03 2019 -0700",
+  "message": "jira-practice-add-register-back-button"
+},
+{
+  "commit": "dc15c790319960182ddc90451dd000e5921a066d",
+  "author": "Daniel Persson <dpersson@pdx.edu>",
+  "date": "Tue Mar 19 15:07:41 2019 -0700",
+  "message": "jira-practice-direct-to-login-on-join"
+},
+{
+  "commit": "bc3b4fc317eab271940cc7bf9127e7bbc8219d3a",
+  "author": "Terry Eggebrecht <terry0@terryegg.com>",
+  "date": "Mon Mar 18 20:14:15 2019 -0700",
+  "message": "PC-20-Registration-UI-1"
+},
+{
+  "commit": "1f39914e9238a88540baa25f710323ffeecd2b56",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Sun Mar 17 05:04:29 2019 -0700",
+  "message": "PC-25-Ensuring-Proper-Page-Visibility-Depending-on-Login-Status"
+},
+{
+  "commit": "de75b8ba66dc23dc73b3d3c055b06b527caadc84",
+  "author": "eggebrecht0 <44066144+eggebrecht0@users.noreply.github.com>",
+  "date": "Thu Mar 14 17:50:05 2019 -0700",
+  "message": "PC-15-Create-Login-Front-Page"
+},
+{
+  "commit": "65157a8cd09adad66e6caa49dc505dee64fd8b1c",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Tue Mar 12 20:59:02 2019 -0700",
+  "message": "Changed-output-location-of-generated-files-from-TypeScript-build"
+},
+{
+  "commit": "b0718aee1fbc50ad2fc929fb8aa7709746ae8f8d",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Tue Mar 12 19:10:51 2019 -0700",
+  "message": "Fixed-issue-with-server-failing-to-serve-URL-paths-other-than-the-root"
+},
+{
+  "commit": "cdf361935cf4ed25b832fd08d30e62ed9f448cc1",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Tue Mar 12 16:16:17 2019 -0700",
+  "message": "Working-on-implementing-hot-module-reloading-when-running-server-in-dev-mode"
+},
+{
+  "commit": "22dfbef8a14aae940dad5436a3d5a2db8bc4369f",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Sun Mar 10 23:33:14 2019 -0700",
+  "message": "Added-passport-and-express-session-dependencies-to-enable-login-session-support"
+},
+{
+  "commit": "c4d5bdfc11e4334cd38814f95539428b9a3d4070",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Sun Mar 10 06:41:46 2019 -0700",
+  "message": "Fixed-CSS-import-for-login-page"
+},
+{
+  "commit": "172828b5ba8265b04a8a3b6e493fb8d00249ee9f",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Sun Mar 10 06:27:45 2019 -0700",
+  "message": "Created-sample-code-to-use-TypeORM-to-extract-user-data-from-database"
+},
+{
+  "commit": "2527e9be415cff12e72647f551bc5ebd23396e5b",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Sun Mar 10 05:37:39 2019 -0700",
+  "message": "Implemented-server-and-database-configuration-files-to-enable-separate-development-and-production-environments"
+},
+{
+  "commit": "b1f8b2ad9e307fe2598c5521a0fbfb7739443d14",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Sat Mar 9 22:00:08 2019 -0800",
+  "message": "Working-on-the-Express-server-boilerplate-and-entity-models-for-TypeORM"
+},
+{
+  "commit": "be708d4f39f5deca3d72a6aef29ce9ff166ca8db",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Sat Mar 9 18:30:21 2019 -0800",
+  "message": "Added-react-router-dom-dependency"
+},
+{
+  "commit": "271da706a3f976b67bf74d0156f7d78a35fe8d92",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Thu Mar 7 20:41:57 2019 -0800",
+  "message": "Removed-unnecessary-typings-for-react-bootstrap-that-was-causing-the-build-to-break"
+},
+{
+  "commit": "84bee118055f4101f139529ae9c0c63ac0f506e1",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Thu Mar 7 20:24:45 2019 -0800",
+  "message": "Updated-README"
+},
+{
+  "commit": "698423b091d1ab390751502a6ec0fbb22304147a",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Wed Mar 6 20:38:11 2019 -0800",
+  "message": "Added-TypeORM-dependency-and-moved-around-some-other-dependencies"
+},
+{
+  "commit": "dc128087779b3dd2fbbf3c49c74aabf53cbb5761",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Tue Mar 5 12:26:26 2019 -0800",
+  "message": "Added-bcrypt-dependency-for-password-authentication"
+},
+{
+  "commit": "7b4ee44df4e9a50751d96d68ae5a9178cb161178",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Fri Feb 22 13:18:48 2019 -0800",
+  "message": "Fixed-the-build-and"
+},
+{
+  "commit": "ae13a9f4b308ed4974bce8be9750ff48b0cdbe5a",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Fri Feb 22 13:03:09 2019 -0800",
+  "message": "Updated-tsconfig.json-files-to-target-the-optimal-language-level-for-the-environment-browser-vs-node"
+},
+{
+  "commit": "ac1acd0030f8bc08b501ddf5adb04139c3665f84",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Fri Feb 22 12:37:55 2019 -0800",
+  "message": "Improved-formatting-and-information-in-README.md"
+},
+{
+  "commit": "59aff562acf3dc9214004dd9893673495ddf1933",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Fri Feb 22 12:20:31 2019 -0800",
+  "message": "Switched-PostgreSQL-package-dependencies-to-MySQL-package-dependencies"
+},
+{
+  "commit": "d2ac602e6db77049e105244d90007424e98bdc42",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Wed Feb 20 23:03:42 2019 -0800",
+  "message": "Updated-Travis-CI-config"
+},
+{
+  "commit": "388966fbdcb3991028e6761c958dceeca0ec15a9",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Wed Feb 20 22:52:16 2019 -0800",
+  "message": "Configured-React-for-client-sub-project"
+},
+{
+  "commit": "1644dbbf6e15ca0368d0000ef4bd10b09d58d033",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Tue Feb 12 20:39:28 2019 -0800",
+  "message": "Dummy-commit-to-test-Travis-CI"
+},
+{
+  "commit": "f6959c1b7bfba5d6227bb5e0169e5e255655e182",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Tue Feb 12 20:25:30 2019 -0800",
+  "message": "Added-Travis-CI-config-file"
+},
+{
+  "commit": "b0fac64d14276df9a0406a0a3b62981acd455a02",
+  "author": "Bradley Odell <btodell@hotmail.com>",
+  "date": "Tue Feb 12 17:39:03 2019 -0800",
+  "message": "Created-initial-project-structure"
+},
+{
+  "commit": "f4faf6bbb2aabfd821e59a0dd4055f65d0f4c90f",
+  "author": "David Georgiyev <idavidgeo@gmail.com>",
+  "date": "Thu Feb 7 19:50:51 2019 -0800",
+  "message": "Initial-commit"
+}]
